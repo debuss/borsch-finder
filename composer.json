@@ -1,0 +1,17 @@
+{
+  "name": "borsch/finder",
+  "description": "Finds files and directories via a set of rules.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexandre DEBUSSCHERE",
+      "email": "zizilex@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Borsch\\": "src/"
+    }
+  }
+}
